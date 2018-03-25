@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingWordRules", "HandlingWordRules\HandlingWordRules.csproj", "{13D61915-97A5-4C26-85CB-6DFDF5DC82DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientForWordApp", "ClientForWordApp\ClientForWordApp.csproj", "{ADD7B002-1485-468F-8B0C-A2DCD517820A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D61915-97A5-4C26-85CB-6DFDF5DC82DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D61915-97A5-4C26-85CB-6DFDF5DC82DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D61915-97A5-4C26-85CB-6DFDF5DC82DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D61915-97A5-4C26-85CB-6DFDF5DC82DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD7B002-1485-468F-8B0C-A2DCD517820A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD7B002-1485-468F-8B0C-A2DCD517820A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD7B002-1485-468F-8B0C-A2DCD517820A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD7B002-1485-468F-8B0C-A2DCD517820A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EF27D4-2A9E-4C54-B4B9-1F1B471124CE}
+	EndGlobalSection
+EndGlobal
